@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Crawlink/material-angular-paging.git"
+    "url": "git+https://github.com/danielraban/material-angular-paging.git"
   },
   "keywords": [
     "Angular",
@@ -29,7 +29,7 @@
   "author": "Crawlink",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Crawlink/material-angular-paging/issues"
+    "url": "https://github.com/danielraban/material-angular-paging/issues"
   },
-  "homepage": "https://github.com/Crawlink/material-angular-paging#readme"
+  "homepage": "https://github.com/danielraban/material-angular-paging#readme"
 }
